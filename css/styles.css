@@ -1,0 +1,109 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Open Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h1 {
+  /* margin: 20px, auto, 0, auto; */
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: "The Nautigal", cursive;
+  padding-top: 20px;
+  font-size: 5rem;
+  color: #66bfbf;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #66bfbf;
+}
+
+.a-student {
+  font-weight: normal;
+  font-size: x-large;
+}
+
+.top-name {
+  margin-top: 0;
+  padding-top: 70px;
+  padding-bottom: 20px;
+  font-size: 6.5rem;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  font-family: "Edu NSW ACT Foundation", cursive;
+  font-size: large;
+}
+
+.middle-container {
+  background-color: #ffffff;
+  padding-bottom: 20px;
+}
+
+.bottom-container {
+  background-color: #ff0063;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 0;
+}
+
+.cloud {
+  position: relative;
+}
+
+.images-container {
+  display: inline-block;
+  width: 800px;
+  height: 50px;
+}
+
+.top-cloud {
+  left: 400px;
+  bottom: 150px;
+}
+
+.bottom-cloud {
+  right: 370px;
+}
+
+.top-text {
+  padding-top: 0;
+}
+
+.mountain {
+  margin-bottom: 0;
+}
+.coding-gif {
+  width: 30%;
+  height: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.guitar {
+  width: 30%;
+  height: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.dp {
+  margin-top: 30px;
+  width: 20%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 150px auto;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.profile {
+  padding-bottom: 20px;
+}
+
+.footer-link {
+  margin: 10px;
+}
